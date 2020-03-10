@@ -1,1 +1,11 @@
-https://www.appbrewery.co/p/web-development-course-resources/
+Resources: https://www.appbrewery.co/p/web-development-course-resources/
+
+Codepen online editor: https://codepen.io/
+
+Documentation resources: https://developer.mozilla.org/en-US/
+                        https://www.w3schools.com/
+                        https://devdocs.io/
+
+
+
+
