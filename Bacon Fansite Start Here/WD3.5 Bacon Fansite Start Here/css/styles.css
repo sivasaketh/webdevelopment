@@ -10,3 +10,15 @@ h1 {
 img {
     background-color: red;
 }
+
+.para {
+    font-style: italic;
+}
+
+.image1:hover{
+    background-color: yellow;
+}
+
+.image2:hover{
+    background-color: green;
+}
