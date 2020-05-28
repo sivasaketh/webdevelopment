@@ -15,6 +15,10 @@ Fonts: https://fonts.google.com
 
 Button creator: https://cssbuttoncreator.com/
 
+Coding standards: https://github.com/rwaldron/idiomatic.js
+
+
+
 
 
 
