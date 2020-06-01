@@ -35,6 +35,15 @@ h2{
 
 }
 
+.company {
+    color: #66BFBF;
+    text-decoration: none;
+    font-style: italic;
+}
+.company:hover {
+    color:#8ccbbe;
+}
+
 h3{
     color: #11999E
 }
@@ -82,10 +91,6 @@ h3{
     margin: 100px auto 100px auto;
     text-align: left;
     line-height: 2;
-}
-
-span {
-    text-decoration: underline;
 }
 
 .profile-pic{
