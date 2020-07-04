@@ -1,0 +1,44 @@
+.header {
+    background-color: #ffa931;
+    color: white;
+    font-family:'Righteous', cursive;
+    font-weight: lighter;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+.footer {
+    color:gray;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;  
+}
+
+.note{
+    padding: 20px;;
+    display: inline-block;
+    margin: 10px;
+    margin-left: 20px;
+    border-style: hidden;
+    border-radius: 15%;
+    background-color: white;
+}
+
+.note h1{
+    margin: 0;
+    font-size: 1rem;
+}
+
+.note p {
+    margin: 0;
+    font-size: 0.8rem;
+}
+
+
+body {
+    margin: 0;
+    background-color: rgb(235, 232, 232);
+}
